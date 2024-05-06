@@ -3,9 +3,9 @@ API https://jsonplaceholder.typicode.com/
 
 Cenarios:
 
-1 - GET no endpoint /users validando nome de usuario 10
-2 - POST no endpoint /posts validando retorno de id 101
-3 - PUT no endpoint /posts/1 validando retorno de apenas 1 id
+1 - GET no endpoint /users validando nome de usuario 10;
+2 - POST no endpoint /posts validando retorno de id 101;
+3 - PUT no endpoint /posts/1 validando retorno de apenas 1 id;
 4 - DELETE no endpoint /posts/1 validando retorno de body vazio 
 
 ## Relatório de execução dos testes 
