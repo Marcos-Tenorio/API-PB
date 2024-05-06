@@ -17,4 +17,4 @@ Utilizado JDK 11
 - Definir como projeto Maven 
 - no terminal do maven de o comando mvn clean install
 - Baixe fonte e documentacao na janela de comandos do Maven
-- src > test > java > runners execute a ckasse RunnerTypicode
+- src > test > java > runners execute a classe RunnerTypicode
